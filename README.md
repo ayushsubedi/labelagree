@@ -1,5 +1,11 @@
-# sahamati
-(WIP) Sahamati is a consensus based data labelling tool. Looking for contributors. 
+ 
+# Sahamati सहमती
+## The concensus based labelling tool (WIP)
+![](https://hackernoon.com/hn-images/1*NceEh-lMfn0sjD8y8JNuBw.jpeg)
 
 
-For a few complecated data labelling tasks, majority is the way to go.
+### TODOS
+
+#### Priliminary
+- [x] create a specification doc
+- [x] find collaborators
