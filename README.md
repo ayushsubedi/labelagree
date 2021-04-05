@@ -7,5 +7,5 @@
 ### TODOS
 
 #### Priliminary
-- [x] create a specification doc
-- [x] find collaborators
+- [ ] create a specification doc
+- [ ] find collaborators
